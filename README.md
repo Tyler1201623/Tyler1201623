@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I’m passionate about building innovative project
 - 💞️ **Collaboration**: Open to collaborate on web development projects, AI/ML innovations, or anything tech-related!  
 - 📫 **Reach Me**: Feel free to connect via keeseetyler@yahoo.com or check out my portfolio below.  
 - 😄 **Pronouns**: He/Him  
-- ⚡ **Fun Fact**: I built my first project at age 14, and I’ve been coding ever since!  
+- ⚡ **Fun Fact**: I built my first project at age 18, I began my coding journey in the beginning of 2024!  
 
 ---
 
