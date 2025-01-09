@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I’m passionate about building innovative project
 - 👀 **Interests**: Technology, AI, Web Development, and Electrical Engineering  
 - 🌱 **Currently Learning**: Advanced JavaScript, Machine Learning, and Cloud Computing  
 - 💞️ **Collaboration**: Open to collaborate on web development projects, AI/ML innovations, or anything tech-related!  
-- 📫 **Reach Me**: Feel free to connect via [Email](keeseetyler@yahoo.com) or check out my portfolio below.  
+- 📫 **Reach Me**: Feel free to connect via keeseetyler@yahoo.com or check out my portfolio below.  
 - 😄 **Pronouns**: He/Him  
 - ⚡ **Fun Fact**: I built my first project at age 14, and I’ve been coding ever since!  
 
